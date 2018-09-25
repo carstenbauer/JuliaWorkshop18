@@ -1,0 +1,10 @@
+Revisit:
+Tips and Tricks / Gotchas
+
+Packages:
+QuantumOptics.jl
+
+
+Where to add/put:
+Generic code examples (add BigFloat example somewhere)
+General linear algebra (give matrices types to dispatch to correct algorithm)
