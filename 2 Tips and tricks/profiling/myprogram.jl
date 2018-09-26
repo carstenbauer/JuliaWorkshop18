@@ -11,14 +11,14 @@ function myfunction(n)
 end
 
 
-# Do the following in the Juno IDE
-using Profile
-Profile.clear()
-myfunction(1) # trigger compilation
-@profile myfunction(10)
-# up to here, everything is the same as for using ProfileView.jl
+# # Do the following in the Juno IDE
+# using Profile
+# Profile.clear()
+# myfunction(1) # trigger compilation
+# @profile myfunction(10)
+# # up to here, everything is the same as for using ProfileView.jl
 
-# Now comes the cool part. Visualize your profile results:
-Juno.profiler()
-# or simply
-@profiler myfunction(10)
+# # Now comes the cool part. Visualize your profile results:
+# Juno.profiler()
+# # or simply
+# @profiler myfunction(10)
