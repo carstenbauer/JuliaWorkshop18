@@ -192,6 +192,12 @@ Python is 30 years old (1989)
 
 Note: JIT compilation times are slow for first run
 
+----
+
+## From source to machine code
+
+![](images/from_source_to_native.png)<!-- .element height="70%" width="70%" -->
+
 ---
 
 # Syntax clarity
@@ -260,29 +266,6 @@ t = 3km / v
 uconvert(d, t)
 ```
 5 days
-
-<!--- ---
-
-# Missing
-
-The concept of `missing` and `NaN` is treated correctly:
-```julia
-julia> NaN + 1         = NaN
-
-julia> missing + 1     = missing
-
-julia> true | missing  = true
-
-julia> false | missing = missing
-
-julia> true & missing  = missing
-
-julia> false & missing = false
-```
-
-Note: Consider that no other language has managed to get this concept of missing data correctly into their code.
-
--->
 
 ---
 
@@ -353,7 +336,6 @@ Note: The pros already outweigh the cons.
 * [Nick Eubank: What Julia Offers Academic Researchers](https://www.youtube.com/watch?v=C4dMYHzW-SY)
 
 * [George Datseris: Why Julia is the most suitable language for science](https://www.youtube.com/watch?v=7y-ahkUsIrY)
-
 
 ---
 
