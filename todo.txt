@@ -1,15 +1,9 @@
 Revisit:
-Tips and Tricks / Gotchas
-
-Intro:
-Mention Source code -> Machine code (AST and so on)
-
-Packages:
-QuantumOptics.jl
+Tips and Tricks (gotchas and linear_algebra)
+Packages. Structure it nicely.
 
 
-Where to add/put:
-Generic code examples (add BigFloat example somewhere)
-General linear algebra (give matrices types to dispatch to correct algorithm)
 
-Profiling! (maybe in Juno)
+DataFrames_and_Co
+
+What about Statistics?
