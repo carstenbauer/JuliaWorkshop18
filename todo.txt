@@ -1,9 +1,6 @@
 Revisit:
-Tips and Tricks (gotchas and linear_algebra)
 Packages. Structure it nicely.
-
-
 
 DataFrames_and_Co
 
-What about Statistics?
+What about Statistics? (StatsBase, Distributions, / GLM, MultivariateWhatever) --- Do it as part of packages only

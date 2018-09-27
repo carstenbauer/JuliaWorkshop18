@@ -23,11 +23,11 @@ Note: ~5 years ago at MIT
 
 * This workshop will be opinionated!
 
-* There a many good programming languages out there!
+* This workshop will be incomplete!
 
-* This workshop won't be about comparing those in detail!
+* The topics will (likely) be too easy and too difficult!
 
-* Find out what works best for your use case!
+* This workshop is about Julia! There are other great languages, too!
 
 ---
 
