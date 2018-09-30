@@ -1,6 +1,0 @@
-Revisit:
-Packages. Structure it nicely.
-
-DataFrames_and_Co
-
-What about Statistics? (StatsBase, Distributions, / GLM, MultivariateWhatever) --- Do it as part of packages only
