@@ -6,4 +6,6 @@ Clone it:
 
 `git clone https://github.com/crstnbr/julia-workshop/`
 
+Used Julia version: 1.0.0
+
 **TODO**: make a list of all great resources that have been shamelessly used and acknowledge the authors
