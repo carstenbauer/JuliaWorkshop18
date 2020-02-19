@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3674661.svg)](https://doi.org/10.5281/zenodo.3674661)
+
 **Notice**: See also the newer [JuliaWorkshop19](https://github.com/crstnbr/JuliaWorkshop19).
 
 Material for a "Julia for Physicists" workshop at the University of Cologne.
